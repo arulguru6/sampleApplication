@@ -1,0 +1,40 @@
+c:\users\tcs\documents\visual studio 2015\Projects\FirstBOT\FirstBOT\bin\Bot Application.dll.config
+c:\users\tcs\documents\visual studio 2015\Projects\FirstBOT\FirstBOT\bin\Bot Application.dll
+c:\users\tcs\documents\visual studio 2015\Projects\FirstBOT\FirstBOT\bin\Bot Application.pdb
+c:\users\tcs\documents\visual studio 2015\Projects\FirstBOT\FirstBOT\bin\Autofac.dll
+c:\users\tcs\documents\visual studio 2015\Projects\FirstBOT\FirstBOT\bin\Chronic.dll
+c:\users\tcs\documents\visual studio 2015\Projects\FirstBOT\FirstBOT\bin\Microsoft.Bot.Builder.Autofac.dll
+c:\users\tcs\documents\visual studio 2015\Projects\FirstBOT\FirstBOT\bin\Microsoft.Bot.Builder.dll
+c:\users\tcs\documents\visual studio 2015\Projects\FirstBOT\FirstBOT\bin\Microsoft.Bot.Connector.dll
+c:\users\tcs\documents\visual studio 2015\Projects\FirstBOT\FirstBOT\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\tcs\documents\visual studio 2015\Projects\FirstBOT\FirstBOT\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\tcs\documents\visual studio 2015\Projects\FirstBOT\FirstBOT\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\tcs\documents\visual studio 2015\Projects\FirstBOT\FirstBOT\bin\Newtonsoft.Json.dll
+c:\users\tcs\documents\visual studio 2015\Projects\FirstBOT\FirstBOT\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\tcs\documents\visual studio 2015\Projects\FirstBOT\FirstBOT\bin\System.Net.Http.Formatting.dll
+c:\users\tcs\documents\visual studio 2015\Projects\FirstBOT\FirstBOT\bin\System.Web.Http.dll
+c:\users\tcs\documents\visual studio 2015\Projects\FirstBOT\FirstBOT\bin\System.Web.Http.WebHost.dll
+c:\users\tcs\documents\visual studio 2015\Projects\FirstBOT\FirstBOT\bin\Autofac.xml
+c:\users\tcs\documents\visual studio 2015\Projects\FirstBOT\FirstBOT\bin\Microsoft.Bot.Builder.xml
+c:\users\tcs\documents\visual studio 2015\Projects\FirstBOT\FirstBOT\bin\Microsoft.Bot.Builder.Autofac.xml
+c:\users\tcs\documents\visual studio 2015\Projects\FirstBOT\FirstBOT\bin\Microsoft.Bot.Connector.xml
+c:\users\tcs\documents\visual studio 2015\Projects\FirstBOT\FirstBOT\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\tcs\documents\visual studio 2015\Projects\FirstBOT\FirstBOT\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\tcs\documents\visual studio 2015\Projects\FirstBOT\FirstBOT\bin\Newtonsoft.Json.xml
+c:\users\tcs\documents\visual studio 2015\Projects\FirstBOT\FirstBOT\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\tcs\documents\visual studio 2015\Projects\FirstBOT\FirstBOT\bin\System.Net.Http.Formatting.xml
+c:\users\tcs\documents\visual studio 2015\Projects\FirstBOT\FirstBOT\bin\System.Web.Http.xml
+c:\users\tcs\documents\visual studio 2015\Projects\FirstBOT\FirstBOT\bin\System.Web.Http.WebHost.xml
+c:\users\tcs\documents\visual studio 2015\Projects\FirstBOT\FirstBOT\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\tcs\documents\visual studio 2015\Projects\FirstBOT\FirstBOT\bin\cs\Microsoft.Bot.Builder.resources.dll
+c:\users\tcs\documents\visual studio 2015\Projects\FirstBOT\FirstBOT\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+c:\users\tcs\documents\visual studio 2015\Projects\FirstBOT\FirstBOT\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\tcs\documents\visual studio 2015\Projects\FirstBOT\FirstBOT\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\tcs\documents\visual studio 2015\Projects\FirstBOT\FirstBOT\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\tcs\documents\visual studio 2015\Projects\FirstBOT\FirstBOT\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\tcs\documents\visual studio 2015\Projects\FirstBOT\FirstBOT\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\tcs\documents\visual studio 2015\Projects\FirstBOT\FirstBOT\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\tcs\documents\visual studio 2015\Projects\FirstBOT\FirstBOT\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\tcs\documents\visual studio 2015\Projects\FirstBOT\FirstBOT\obj\Debug\FirstBOT.csprojResolveAssemblyReference.cache
+c:\users\tcs\documents\visual studio 2015\Projects\FirstBOT\FirstBOT\obj\Debug\Bot Application.dll
+c:\users\tcs\documents\visual studio 2015\Projects\FirstBOT\FirstBOT\obj\Debug\Bot Application.pdb
