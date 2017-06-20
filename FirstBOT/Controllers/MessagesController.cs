@@ -4,6 +4,7 @@ using System.Threading.Tasks;
 using System.Web.Http;
 using Microsoft.Bot.Builder.Dialogs;
 using Microsoft.Bot.Connector;
+using FirstBOT.Dialogs;
 
 namespace FirstBOT
 {
@@ -18,7 +19,8 @@ namespace FirstBOT
         {
             if (activity.Type == ActivityTypes.Message)
             {
-                await Conversation.SendAsync(activity, () => new Dialogs.RootDialog());
+               //await Conversation.SendAsync(activity, () => new Dialogs.RootDialog());
+                await Conversation.SendAsync(activity, () => new MeBotLuisDialog());
             }
             else
             {
@@ -30,6 +32,7 @@ namespace FirstBOT
 
         private Activity HandleSystemMessage(Activity message)
         {
+          
             if (message.Type == ActivityTypes.DeleteUserData)
             {
                 // Implement user deletion here
